@@ -9,6 +9,7 @@
         <module name="less4" />
         <module name="less2" />
         <module name="Less3" />
+        <module name="less5" />
       </profile>
     </annotationProcessing>
   </component>
