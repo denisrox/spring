@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css">
+    <link type="text/css" rel="stylesheet" th:href="@{/resources/css/style.css}"/>
+
+    <title>Document</title>
+</head>
+<body>
+
+    <div class="fluid-container">
+        <nav>
+            <div th:replace="~{header :: header}">
+            </div>
+        </nav>
+    </div>
+
+
+
+
+    <div class="container">
+
+        <div class="fluid-container">
+            <nav>
+                <div th:replace="~{leftmenu :: leftmenu(Menu)}">
+                </div>
+            </nav>
+        </div>
+
+        <div class=rightMenu>
+            <span class="typeProducts">new products</span>
+
+
+            <div class=products>
+                <div class="product productNew" th:each="book : ${bookList}">
+                    <a href="catalog_products/graphics_card_msi_2080_ti.html">
+                        <img src="image/graphics_card_msi_2080_ti.jpg" alt="Картинка видеокарты" width="500" title='видюха'>
+                    </a>
+                    <span class="productName" th:text="${book.title}"></span>
+                    <span class="productPrice"th:text="${book.dated}"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container brands">
+        <span class="brand">gigabyte</span>
+        <span class="brand">asus</span>
+        <span class="brand">msi</span>
+        <span class="brand">amd</span>
+        <span class="brand">hp</span>
+        <span class="brand">intel</span>
+        <span class="brand">palit</span>
+        <span class="brand">samsung</span>
+    </div>
+
+    <div class="fluid-container">
+        <nav>
+            <div th:replace="~{footer :: foot}">
+            </div>
+        </nav>
+    </div>
+
+
+</body>
+</html>

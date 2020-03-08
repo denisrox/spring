@@ -2,25 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d764171a-2198-4f4b-b6d2-51fba990347a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/less5/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/controllers/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/controllers/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/entities/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/repositories/BooksRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/java/services/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/add-book-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/leftmenu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/resources/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/less5/src/main/webapp/resources/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/less6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/controllers/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/controllers/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/controllers/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/launcher/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityWebApplicationInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/repositories/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/java/less6/services/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/access-denied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/add-book-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/admin-panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/leftmenu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/modern-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/resources/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/resources/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less6/src/main/webapp/resources/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/controllers/ProductRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/controllers/ProductRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/entities/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/entities/SystemUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/entities/SystemUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less4/src/main/java/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/less4/src/main/java/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less5/src/main/java/controllers/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/less5/src/main/java/controllers/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less5/src/main/java/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/less5/src/main/java/controllers/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less5/src/main/java/entities/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/less5/src/main/java/entities/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,6 +49,7 @@
     <ignored path="$PROJECT_DIR$/Less3/target/" />
     <ignored path="$PROJECT_DIR$/less4/target/" />
     <ignored path="$PROJECT_DIR$/less5/target/" />
+    <ignored path="$PROJECT_DIR$/less6/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +62,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/beans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/modern-login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="104" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityWebApplicationInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,10 +108,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/java/repositories/BooksRepository.java">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="178">
+              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,55 +120,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/java/services/BookService.java">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/add-book-form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            <state relative-caret-position="-9">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/resources/css/main.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/beans.xml">
+        <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-193">
-              <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
+            <state relative-caret-position="255">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/resources/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/add-book-form.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/footer.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/leftmenu.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/java/entities/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -136,6 +186,7 @@
       <find>run</find>
       <find>servle</find>
       <find>resource</find>
+      <find>geek</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -144,23 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/less2/src/main/resources/WEB-INF/beans.xml" />
-        <option value="$PROJECT_DIR$/less2/src/main/java/less2/entites/Product.java" />
-        <option value="$PROJECT_DIR$/less2/src/main/resources/WEB-INF/view/productForm.jsp" />
-        <option value="$PROJECT_DIR$/less2/src/main/java/less2/controllers/test1.java" />
-        <option value="$PROJECT_DIR$/less2/src/main/resources/WEB-INF/view/productFormResult.jsp" />
-        <option value="$PROJECT_DIR$/less2/src/main/java/less2/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/less2/src/main/resources/WEB-INF/view/AllProducts.jsp" />
-        <option value="$PROJECT_DIR$/less2/src/main/java/less2/repositories/ProductRepositories.java" />
-        <option value="$PROJECT_DIR$/less2/src/main/java/less2/controllers/productController.java" />
-        <option value="$PROJECT_DIR$/Less3/pom.xml" />
-        <option value="$PROJECT_DIR$/Less3/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/Product.java" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/Buyer.java" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/controller.java" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/Entity.java" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/IEntity.java" />
-        <option value="$PROJECT_DIR$/Less3/src/main/java/entity/Buyer.java" />
         <option value="$PROJECT_DIR$/Less3/src/main/java/Controller.java" />
         <option value="$PROJECT_DIR$/Less3/src/main/java/entity/Product.java" />
         <option value="$PROJECT_DIR$/Less3/src/main/java/Main.java" />
@@ -183,7 +217,6 @@
         <option value="$PROJECT_DIR$/less4/src/main/java/GeekMarketApplication.java" />
         <option value="$PROJECT_DIR$/less4/pom.xml" />
         <option value="$PROJECT_DIR$/less4/src/main/java/entities/Product.java" />
-        <option value="$PROJECT_DIR$/less4/src/main/java/repositories/ProductRepository.java" />
         <option value="$PROJECT_DIR$/less4/src/main/java/controllers/ProductRestController.java" />
         <option value="$PROJECT_DIR$/less4/src/main/java/services/ProductService.java" />
         <option value="$PROJECT_DIR$/less5/pom.xml" />
@@ -195,6 +228,24 @@
         <option value="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/beans.xml" />
         <option value="$PROJECT_DIR$/less5/src/main/java/services/BookService.java" />
         <option value="$PROJECT_DIR$/less5/src/main/java/repositories/BooksRepository.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/geekbrains/controllers/AdminController.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/repositories/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/less4/src/main/java/repositories/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/Launcher.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/entities/Book.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/repositories/BooksRepository.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/services/BookService.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/controllers/MainController.java" />
+        <option value="$PROJECT_DIR$/less6/pom.xml" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityWebApplicationInitializer.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/entities/Course.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/launcher/Launcher.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/modern-login.html" />
+        <option value="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/beans.xml" />
+        <option value="$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/add-book-form.html" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/controllers/BookController.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/less6/src/main/java/less6/controllers/LoginController.java" />
       </list>
     </option>
   </component>
@@ -206,9 +257,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2552" />
-    <option name="y" value="-18" />
-    <option name="width" value="1936" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -216,7 +267,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,78 +277,92 @@
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="entities" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="launcher" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="repositories" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -306,7 +370,7 @@
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -315,7 +379,7 @@
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -325,7 +389,17 @@
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
@@ -334,28 +408,24 @@
             <path>
               <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="less5" type="462c0819:PsiDirectoryNode" />
+              <item name="less6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/less6/src/main/webapp/resources/css" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -365,18 +435,18 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less5\src\main\webapp\WEB-INF\templates" />
-      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less5\src\main\webapp\resources\css" />
-      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less5\src\main\java\controllers" />
-      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less5\src\main" />
-      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less5\src\main\webapp" />
+      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less6\src\main\webapp\resources\css" />
+      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less6\src\main\webapp\WEB-INF\templates" />
+      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less6\src\main\java\less6\controllers" />
+      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less6\src\main\java\less6\launcher" />
+      <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less6\src\main\java\less6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="services" />
-      <recent name="repositories" />
-      <recent name="entities" />
-      <recent name="controllers" />
-      <recent name="" />
+      <recent name="less6.entities" />
+      <recent name="less6.services" />
+      <recent name="less6.launcher" />
+      <recent name="less6.repositories" />
+      <recent name="less6" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\denisrox\Desktop\geek\spring\spring\less4\src\main\resources" />
@@ -397,20 +467,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Launcher (1)">
-    <configuration name="GeekMarketApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeekMarketApplication" />
-      <module name="less4" />
+  <component name="RunManager" selected="Application.Launcher (3)">
+    <configuration name="Launcher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less6.Launcher" />
+      <module name="less6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Launcher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Launcher (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="launcher.Launcher" />
-      <module name="less5" />
+      <module name="less6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less6.launcher.Launcher" />
+      <module name="less6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less6.launcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,19 +520,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Less3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less1.main" />
-      <module name="spring" />
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less6.launcher.Launcher" />
+      <module name="less5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="less1.*" />
+          <option name="PATTERN" value="less6.launcher.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,13 +533,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less6.launcher.Launcher" />
+      <module name="less6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="less6.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Less3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Launcher (3)" />
+        <item itemvalue="Application.Launcher (2)" />
         <item itemvalue="Application.Launcher (1)" />
-        <item itemvalue="Application.GeekMarketApplication" />
-        <item itemvalue="Application.Launcher" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Launcher (2)" />
+        <item itemvalue="Application.Launcher (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -500,19 +602,26 @@
       <option name="project" value="LOCAL" />
       <updated>1583058605499</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comleted">
+      <created>1583280126519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583280126519</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="-18" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88006485" visible="true" weight="0.28411514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88006485" visible="true" weight="0.21661367" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.11993517" side_tool="true" visible="true" weight="0.28411514" />
+      <window_info id="Structure" order="5" sideWeight="0.11993517" side_tool="true" visible="true" weight="0.21661367" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
@@ -589,6 +698,12 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/less6/src/main/java/launcher/Launcher.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -596,283 +711,6 @@
     <SUITE FILE_PATH="coverage/spring_1$GeekMarketApplication.ic" NAME="GeekMarketApplication Coverage Results" MODIFIED="1582998760093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/less4/target/classes/GeekMarketApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/repositories/RoleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/controllers/ShopController.java" />
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/services/ShoppingCartService.java" />
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/config/SecurityWebApplicationInitializer.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/javax/servlet/ServletException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/entities/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/validation/FieldMatch.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/validation/EmailValidator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/validation/ValidEmail.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/validation/FieldMatchValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/entities/SystemUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/services/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/test/java/GeekMarketApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3094">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Less3/src/main/java/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="68" column="50" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less2/src/main/java/less2/controllers/productController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="40" column="79" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less2/src/main/java/less2/launcher/Launcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="59" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less2/src/main/java/less2/entites/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less2/src/main/java/less2/controllers/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="30" column="83" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/GeekMarketApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/config/CustomAuthenticationSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-262">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/controllers/ProductRestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/entities/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/entities/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/repositories/ProductRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less4/src/main/java/services/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/resourse.properties" />
-    <entry file="file://$PROJECT_DIR$/less5/src/main/resourse/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/resources/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/controllers/StudentsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/services/StudentsService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/entities/Student.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/entities/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/repositories/StudentsRepository.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/less5/src/main/java/controllers/BookController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -887,8 +725,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less5/src/main/java/repositories/BooksRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less5/src/main/java/services/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
@@ -902,23 +764,6 @@
     <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/templates/leftmenu.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/services/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/repositories/BooksRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less5/src/main/java/entities/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -926,20 +771,227 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/java/launcher/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="144">
+          <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/less6.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/repositories/CoursesRepository.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/entities/Student.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/launcher/SecurityWebApplicationInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/services/CoursesService.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/services/StudentsService.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/launcher/SecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/entities/Course.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/launcher/Test.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/controllers/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/geekbrains/controllers/AdminController.java" />
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/services/BookService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/repositories/BooksRepository.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less4/src/main/java/repositories/RoleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#261#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less4/src/main/java/repositories/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less5/src/main/webapp/WEB-INF/beans.xml">
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="44" column="77" selection-start-line="44" selection-start-column="77" selection-end-line="44" selection-end-column="77" />
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/controllers/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/controllers/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/launcher/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/repositories/BooksRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/services/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/entities/Course.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/access-denied.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/launcher/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="142" selection-start-line="22" selection-start-column="142" selection-end-line="22" selection-end-column="142" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/admin-panel.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/modern-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/launcher/SecurityWebApplicationInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/WEB-INF/templates/add-book-form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/webapp/resources/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less6/src/main/java/less6/controllers/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
