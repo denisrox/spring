@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <script type="text/javascript" th:src="@{/webjars/jquery/3.3.1/dist/jquery.min.js}"></script>
+    <script type="text/javascript" th:src="@{/webjars/bootstrap/4.1.3/js/bootstrap.min.js}"></script>
+    <script type="text/javascript" th:src="@{/resources/js/main.js}"></script>
+    <link type="text/css" rel="stylesheet" th:href="@{/webjars/bootstrap/4.1.3/css/bootstrap.min.css}"/>
+    <link type="text/css" rel="stylesheet" th:href="@{/resources/css/main.css}"/>
+</head>
+<body>
+</body>
+
+
+<footer th:fragment="foot">
+    <div class="footerInside">
+        <div>
+            <div class="columnHead">
+                Category
+            </div>
+            <div class="columnLinks">
+                <a href="#">Home</a>
+                <a href="#">about us</a>
+                <a href="#">eshop</a>
+                <a href="#">Features</a>
+                <a href="#">new collections</a>
+                <a href="#">blog</a>
+                <a href="#">contact</a>
+            </div>
+        </div>
+        <div>
+            <div class="columnHead">
+                Our Account
+            </div>
+            <div class="columnLinks">
+                <a href="#">Your Account</a>
+                <a href="#">Personal information</a>
+                <a href="#">Addresses</a>
+                <a href="#">Discount</a>
+                <a href="#">Orders history</a>
+                <a href="#">Addresses</a>
+                <a href="#">Search Terms</a>
+            </div>
+        </div>
+        <div>
+            <div class="columnHead">
+                Our Support
+            </div>
+            <div class="columnLinks">
+                <a href="#">Site Map</a>
+                <a href="#">Search Terms</a>
+                <a href="#">Advanced Search</a>
+                <a href="#">Mobile</a>
+                <a href="#">Contact Us</a>
+                <a href="#">Mobile</a>
+                <a href="#">Addresses</a>
+            </div>
+        </div>
+        <div class="newsLetter">
+            <div class="columnHead">
+                Newsletter
+            </div>
+            <div class="columnNewsLetter">
+                <div class="newsLetterText">
+                    Join thousands of other people subscribe to our news
+                </div>
+                <input type="text" placeholder="INSERT EMAIL">
+                <button>SUBMIT</button>
+                <div class="cardsWrap">
+                    <img src="images/paymentMethods/american-express.jpg" alt="">
+                    <img src="images/paymentMethods/master-card.jpg" alt="">
+                    <img src="images/paymentMethods/maestro.jpg" alt="">
+                    <img src="images/paymentMethods/paypal.jpg" alt="">
+                    <img src="images/paymentMethods/discover.jpg" alt="">
+                    <img src="images/paymentMethods/visa.jpg" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="about">
+            <div class="columnHead">
+                About Us
+            </div>
+            <div class="columnAboutUs">
+                <div class="aboutText">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+                    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
+                    parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+                    pellentesque eu, pretium quis, sem.
+                </div>
+                <div class="aboutPhone">
+                    <span>Phone:</span> 1-999-342-9876
+                </div>
+                <div class="aboutEmail">
+                    <span>E-mail:</span> info@surfhouse.com
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footerCopyrights">
+        <div class="copyrightsInside">
+            <div class="footerCopySign">
+                &copy; 2014  SURFHOUSE. All rights reserved - Designed by theuncreativelab.com
+            </div>
+            <div class="footerSocials">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-pinterest"></i>
+                <i class="fab fa-google-plus"></i>
+                <i class="fab fa-tumblr-square"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fas fa-rss"></i>
+            </div>
+        </div>
+    </div>
+</footer>
+</html>

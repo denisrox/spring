@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html xmlns:th="http://www.thymeleaf.org">
+<html xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css">
+    <link type="text/css" rel="stylesheet" th:href="@{/resources/css/style.css}"/>
+
+    <title>Document</title>
+</head>
+<body>
+
+<div class="fluid-container">
+    <nav>
+        <div th:replace="~{header :: header}">
+        </div>
+    </nav>
+</div>
+
+
+
+
+<div class="container">
+
+    <div class="fluid-container">
+        <nav>
+            <div th:replace="~{leftmenu :: leftmenu(book_List)}">
+            </div>
+        </nav>
+    </div>
+
+    <div class=rightMenu sec:authorize="hasRole('ADMIN')">
+        <span class="typeProducts">new products</span>
+
+
+        <form th:action="@{/book/add}" th:object="${book}" method="post">
+            name: <input type="text" th:field="*{name}"/>
+            title: <input type="text" th:field="*{title}"/>
+            dated: <input type="text" th:field="*{dated}"/>
+            <br>
+            <div class="submit">
+                <button name="addBook" type="submit">Add book</button>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+<div class="container brands">
+    <span class="brand">gigabyte</span>
+    <span class="brand">asus</span>
+    <span class="brand">msi</span>
+    <span class="brand">amd</span>
+    <span class="brand">hp</span>
+    <span class="brand">intel</span>
+    <span class="brand">palit</span>
+    <span class="brand">samsung</span>
+</div>
+
+<div class="fluid-container">
+    <nav>
+        <div th:replace="~{footer :: foot}">
+        </div>
+    </nav>
+</div>
+
+
+</body>
+</html>
