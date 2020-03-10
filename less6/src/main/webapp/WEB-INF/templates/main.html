@@ -39,7 +39,8 @@
             <div class=products>
                 <div class="product productNew" th:each="book : ${bookList}">
                     <a href="catalog_products/graphics_card_msi_2080_ti.html">
-                        <img src="image/graphics_card_msi_2080_ti.jpg" alt="Картинка видеокарты" width="500" title='видюха'>
+                        <img th:src="@{/resources/image/}+${book.link_image}" alt="Картинка видеокарты" width="500" title='видюха'>
+                        <!--<img th:src="'resources/image/'+${book.link_image}" alt="Картинка видеокарты" width="500" title='видюха'>-->
                     </a>
                     <span class="productName" th:text="${book.title}"></span>
                     <span class="productPrice"th:text="${book.dated}"></span>

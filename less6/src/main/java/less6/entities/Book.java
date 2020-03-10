@@ -21,6 +21,17 @@ public class Book {
     @Column(name = "releaseDate")
     private String dated;
 
+    @Column(name = "link_image")
+    private String link_image;
+
+    public String getLink_image() {
+        return link_image;
+    }
+
+    public void setLink_image(String link_image) {
+        this.link_image = link_image;
+    }
+
     public Long getId() {
         return id;
     }
